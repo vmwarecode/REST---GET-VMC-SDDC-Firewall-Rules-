@@ -1,1 +1,0 @@
-# REST---GET-VMC-SDDC-Firewall-Rules-
