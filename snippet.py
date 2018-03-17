@@ -1,3 +1,4 @@
+import requests
 
 def getFWRules()
     key = 'oauthkey'
